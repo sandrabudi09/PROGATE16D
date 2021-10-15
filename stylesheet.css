@@ -5,6 +5,44 @@ body {
     height: 100vh;
 }
 
+        .box-barang {
+        width: 400px;
+        height: 450px;
+        background: #f7f7f7;
+        display: inline-block;
+        margin-right: 17px;
+        border-radius: 8px;
+        border: 1px solid #737373;
+        margin-bottom: 17px;
+        position: relative;
+      }
+      .box-thumbnail {
+        width: 400px;
+        height: 250px;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+      }
+      .box-judul {
+        color: #000;
+      }
+      .box-deskripsi {
+        color: #000;
+      }
+      .box-label {
+        position: absolute;
+        top: 0;
+        right: 0;
+        margin-top: 5px;
+        margin-right: 5px;
+        background: #f00;
+        color: #fff;
+        padding: 5px 10px;
+        border-radius: 7px;
+      }
+      .box-body {
+        padding: 5px 10px;
+      }
+
 :root {
     --bg: rgb(12, 10,37);
     --bg-light: #2a576944;
