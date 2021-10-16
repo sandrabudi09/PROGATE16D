@@ -125,13 +125,6 @@ lesson-wrapper {
     padding: 5px 10px;
 }
 
-body {
-    display: flex;
-    place-content: end;
-    flex-direction: column;
-    height: 100vh;
-}
-
 :root {
     --bg: rgb(12, 10, 37);
     --bg-light: #2a576944;
