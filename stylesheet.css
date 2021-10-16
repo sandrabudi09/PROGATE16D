@@ -222,7 +222,7 @@ footer input[type='submit']:hover {
 
 footer .social {
     margin-block: 16px;
-    display: grid;
+    display: grid;https://github.com/sandrabudi09/PROGATE16D/blob/main/stylesheet.css
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 16px;
 }
@@ -233,7 +233,7 @@ footer .social span {
     text-align: center;
     border: 1px solid var(--light);
     border-radius: 8px;
-    width: 100%;
+    width: auto;
 }
 
 footer span:hover {
