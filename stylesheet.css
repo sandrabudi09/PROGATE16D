@@ -71,6 +71,20 @@ lesson-wrapper {
     font-weight: normal;
 }
 
+.heading {
+    text-align: center;
+}
+
+.food {
+    padding: 0px 100px;
+    display: block;
+    overflow: auto;
+}
+
+.city {
+    overflow: auto;
+}
+
 .box-barang {
     float: left;
     width: 30%;
@@ -89,9 +103,9 @@ lesson-wrapper {
     display: inline-block;
     margin-right: 17px;
     border-radius: 8px;
-    border: 1px solid #737373;
     margin-bottom: 17px;
     position: relative;
+    box-shadow: 0 8px 16px 0 rgb ( 0 0 0 /20%);
 }
 
 .box-thumbnail {
