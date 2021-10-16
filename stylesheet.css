@@ -79,11 +79,6 @@ header {
     overflow: auto;
 }
 
-.box-barang {
-    float: left;
-    width: 30%;
-}
-
 .box-thumbnail {
     width: 300px;
     height: 300px;
@@ -100,6 +95,8 @@ header {
     margin-bottom: 17px;
     position: relative;
     box-shadow: 0 8px 16px 0 rgb ( 0 0 0 /20%);
+    float: left;
+    width: 30%;
 }
 
 .box-thumbnail {
