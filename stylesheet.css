@@ -223,11 +223,11 @@ footer input[type='submit']:hover {
 footer .social {
     margin-block: 16px;
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     grid-gap: 16px;
 }
 
-footer .social i {
+footer .social span {
     font-size: 32px;
     padding: 12px;
     text-align: center;
@@ -236,7 +236,7 @@ footer .social i {
     width: 100%;
 }
 
-footer .social i:hover {
+footer span:hover {
     color: var(--hover);
     border-color: var(--hover);
     box-shadow: 0px 0px 16px insert var(--light);
