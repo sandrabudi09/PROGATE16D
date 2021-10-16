@@ -83,7 +83,7 @@ lesson-wrapper {
 }
 
 .box-barang {
-    width: 400px;
+    width: 350px;
     height: 450px;
     background: #f7f7f7;
     display: inline-block;
@@ -95,7 +95,7 @@ lesson-wrapper {
 }
 
 .box-thumbnail {
-    width: 400px;
+    width: 350px;
     height: 250px;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
